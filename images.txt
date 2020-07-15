@@ -1,0 +1,5 @@
+D:\Convert-VOC-to-YOLO/images\sharp_1.jpg
+D:\Convert-VOC-to-YOLO/images\sharp_2.jpg
+D:\Convert-VOC-to-YOLO/images\sharp_3.jpg
+D:\Convert-VOC-to-YOLO/images\sharp_4.jpg
+D:\Convert-VOC-to-YOLO/images\sharp_5.jpg
